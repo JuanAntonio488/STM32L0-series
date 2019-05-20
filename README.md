@@ -1,4 +1,4 @@
-# STM32L0-series HAL code examples
+# STM32L0 Series-HAL code examples
 
 ## Summary
 This repo contains code examples based on the *Hardware Abstraction Layer (HAL)* provided by STMicroelectronics to support STM32 based boards using *STM32L0XX* MCU's series.
